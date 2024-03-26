@@ -6,7 +6,7 @@ var username = process.env.username;
 var password = process.env.password;
 var shared_secret = process.env.shared;
 
-var games = [730, 252490, 1891700, 570, 1172470];  // Enter here AppIDs of the needed games CS2,Rust,TapNinja,Dota2,ApexLegends
+var games = [730, 252490, 1891700, 570, 1172470, 700600, 1876390];  // Enter here AppIDs of the needed games CS2,Rust,TapNinja,Dota2,ApexLegends,EvilGenius2,StakeHolder
 var status = 1;  // 1 - online, 7 - invisible
 
 
