@@ -19,9 +19,9 @@ user.on('loggedOn', () => {
 });
 
 
-var username2 = process.env.username;
-var password2 = process.env.password;
-var shared_secret2 = process.env.shared;
+var username2 = process.env.username2;
+var password2 = process.env.password2;
+var shared_secret2 = process.env.shared2;
 
 var games2 = [730, 570];  // Enter here AppIDs of the needed games CS2,Dota2
 var status2 = 1;  // 1 - online, 7 - invisible
