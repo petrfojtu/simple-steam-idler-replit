@@ -17,4 +17,3 @@ user.on('loggedOn', () => {
 	user.setPersona(status);               
 	user.gamesPlayed(games);
 });
-s
